@@ -32,3 +32,6 @@ If you have any other ideas, feel free to make an issue for the same and we can 
 
 ## To-Do
 - Add options for filters (maybe as a website)
+
+## Contributors
+- [Pahulpreet Singh](https://github.com/codelixir)

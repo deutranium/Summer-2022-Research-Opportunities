@@ -9,6 +9,9 @@
 |[ISTernship summer program](https://phd.pages.ist.ac.at/isternship/) | IST Austria | February 2022 | Completed at least the 4th semester | |
 |[Amgen Scholars](http://amgenscholars.com/asia-program/) | Japan | February 2022 | |
 |[Caltech Student-Faculty Programs (SURF)](https://sfp.caltech.edu/programs/surf/application_information) | Caltech | March 2022 | |
+|[Swissnex](https://swissnex.org/india/thinkswiss/) | Switzerland | August 2022 (?) | |
+|[ETH Zurich Summer Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship/) | ETH Zurich, Switzerland | November 2021 - 15 December 2021 | |
+|[India Connect@NTU Singapore](https://www.ntu.edu.sg/education/student-exchanges/india-connect@ntu) | NTU Singapore | February 2022 - March 2022 (Fall), July 2021 - August 2021 (Spring), November 2021 - December 2021 (Summer) | |
 
 P.S. Some of the above opportunities might be relevant to Indian/Asia-Pacific students but pretty sure they'll have their counterparts for other regions too.
 

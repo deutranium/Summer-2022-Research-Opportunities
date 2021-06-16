@@ -11,7 +11,12 @@
 |[Caltech Student-Faculty Programs (SURF)](https://sfp.caltech.edu/programs/surf/application_information) | Caltech | March 2022 | |
 |[Swissnex](https://swissnex.org/india/thinkswiss/) | Switzerland | August 2022 (?) | |
 |[ETH Zurich Summer Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship/) | ETH Zurich, Switzerland | November 2021 - 15 December 2021 | |
-|[India Connect@NTU Singapore](https://www.ntu.edu.sg/education/student-exchanges/india-connect@ntu) | NTU Singapore | February 2022 - March 2022 (Fall), July 2021 - August 2021 (Spring), November 2021 - December 2021 (Summer) | |
+|[India Connect@NTU Singapore](https://www.ntu.edu.sg/education/student-exchanges/india-connect@ntu) | NTU Singapore | February 2022 - March 2022 (Fall), July 2021 - August 2021 (Spring), November 2021 - December 2021 (Summer) | Only for students in pre-final year |
+|[Santa Fe Undergraduate Complexity Research](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research) | Santa Fe Institute, New Mexico, USA | Applications starting October 2022 | |
+|[Max Planck Institutes in Computer Science](https://www.cis.mpg.de/internships/) | Max Planck Institutes | December 2021 | Check out other [Max Planck Institutes](https://www.mpg.de/institutes) too for opportunities in other domains|
+|[Aalto Science Institute AScI internship programme](https://www.aalto.fi/en/aalto-science-institute/aalto-science-institute-asci-internship-programme) | Aalto University, Finland | January 2022 | |
+|[DAAD India](https://www.daad.in/en/study-research-in-germany/studying-in-germany/internships-and-short-term-programmes/) | Germany | | |
+|[INRIA](https://www.inria.fr/en/do-internship) | INRIA, France | | |
 
 P.S. Some of the above opportunities might be relevant to Indian/Asia-Pacific students but pretty sure they'll have their counterparts for other regions too.
 

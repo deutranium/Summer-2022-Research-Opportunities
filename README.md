@@ -4,7 +4,7 @@
 |------|----------|----------|-------|
 |[India Connect@NTU Singapore](https://www.ntu.edu.sg/education/student-exchanges/india-connect@ntu) | NTU Singapore | July 2021 - August 2021 (Spring), November 2021 - December 2021 (Summer), February 2022 - March 2022 (Fall) | Only for students in pre-final year |
 |[Swissnex](https://swissnex.org/india/thinkswiss/) | Switzerland | August 2021 (?) | |
-|[MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) | Canada | August 2021 - September 2021 | |
+|[MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) | Canada | August 2021 - September 2021 | Have one to three semesters remaining in your program as of Fall 2022. |
 |[Santa Fe Undergraduate Complexity Research](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research) | Santa Fe Institute, New Mexico, USA | Applications starting October 2021 | |
 |[Summer@EPFL](https://summer.epfl.ch/apply.html) | École polytechnique fédérale de Lausanne, Switzerland | November 28, 2021 | |
 |[ETH Zurich Summer Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship/) | ETH Zurich, Switzerland | November 2021 - 15 December 2021 | |

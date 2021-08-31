@@ -11,6 +11,7 @@
 |[UCLA RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2021/) | UCLA | November 2021 - December 2021 | Different programs for undergraduates and graduates, VISA sponsorship|
 |[RIPS Singapore](https://ims.nus.edu.sg/events/rips2022/) | Institute for Mathematical Science, NUS | November 2021 - December 2021 | Application is same as UCLA RIPS |
 |[Max Planck Institutes in Computer Science](https://www.cis.mpg.de/internships/) | Max Planck Institutes | December 2021 | Check out other [Max Planck Institutes](https://www.mpg.de/institutes) too for opportunities in other domains|
+|[CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education) | CERN openlab | January 2022 | Students who completed at least three years of full-time studies at university level by next spring |
 |[Aalto Science Institute AScI internship programme](https://www.aalto.fi/en/aalto-science-institute/aalto-science-institute-asci-internship-programme) | Aalto University, Finland | January 2022 | |
 |[Global Intern Program, Gwangju Institute of Science and Technology, South Korea](https://www.gist.ac.kr/en/html/sub07/0702.html) | South Korea | January 2022 - March 2022 | GPA >= 3.0|
 |[Amgen Scholars](http://amgenscholars.com/asia-program/) | Japan | February 2022 | |

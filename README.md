@@ -21,6 +21,8 @@
 |[IRIS-HEP Fellows](https://iris-hep.org/fellows.html) | Remote | April 2022 | High Energy Physics |
 |[DAAD India](https://www.daad.in/en/study-research-in-germany/studying-in-germany/internships-and-short-term-programmes/) | Germany | | |
 |[INRIA](https://www.inria.fr/en/do-internship) | INRIA, France | | |
+|[International Student Internship Program (ISIP) Princeton](https://international.princeton.edu/international-students-and-scholars/International-Student-Internship-Program)| New Jersey, USA | Check in Early 2022 | Interns must be nominated by a Princeton faculty member or Princeton administrator who wishes to sponsor their research or educational internship. |
+|[GTAP Indiana University Bloomington](https://luddy.indiana.edu/research/student-research/fellowship.html)| Indiana University, Bloomington, USA | There is currently no GTAP scheduled for summer 2022 ||
 
 P.S. Some of the above opportunities might be relevant to Indian/Asia-Pacific students but pretty sure they'll have their counterparts for other regions too.
 

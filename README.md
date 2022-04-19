@@ -28,6 +28,7 @@
 |[INRIA](https://www.inria.fr/en/do-internship) | INRIA, France | | |
 |[International Student Internship Program (ISIP) Princeton](https://international.princeton.edu/international-students-and-scholars/International-Student-Internship-Program)| New Jersey, USA | Check in Early 2022 | Interns must be nominated by a Princeton faculty member or Princeton administrator who wishes to sponsor their research or educational internship. |
 |[GTAP Indiana University Bloomington](https://luddy.indiana.edu/research/student-research/fellowship.html)| Indiana University, Bloomington, USA | There is currently no GTAP scheduled for summer 2022 ||
+|[Yonsei University Research Internship Summer 2022](https://summer.yonsei.ac.kr/home/program/internship02.asp)| Yonsei University, South Korea | Due April 22nd | |
 
 P.S. Some of the above opportunities might be relevant to Indian/Asia-Pacific students but pretty sure they'll have their counterparts for other regions too.
 
